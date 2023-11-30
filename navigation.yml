@@ -1,7 +1,0 @@
-- name: Page Name Test1
-  link: /page-1/
-- name: Blog Test
-  link: /blog/
-  dropdown:
-  - name: Page 2
-    link: /page-2/
