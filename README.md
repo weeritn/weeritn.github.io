@@ -1,1 +1,3 @@
-# Test Landing Page - Weerit Nopcharoenwong
+layout: page
+title: Weerit Nopcharoenwong
+subtitle: test
