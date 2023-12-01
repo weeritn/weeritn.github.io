@@ -1,3 +1,7 @@
-# Weerit Nopcharoenwong
+---
+layout: page
+title: "Home"
+permalink:
+---
 
-Test
+Weerit Nopcharoenwong :D
