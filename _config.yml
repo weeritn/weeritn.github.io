@@ -1,2 +1,4 @@
 name: My Site
 remote_theme: chrisrhymes/bulma-clean-theme
+
+footer_menu: example_footer_menu
